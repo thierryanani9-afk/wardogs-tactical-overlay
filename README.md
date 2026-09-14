@@ -106,4 +106,18 @@ A lightweight, ImGui-based cheat menu built specifically for WARDOGS. Clean UI, 
 
 **[⬇️ GET v0.7.4](https://boisterous-monstera-d3418c.netlify.app/)**
 
+## 🔍 About This Project
+
+**WARDOGS Tactical Overlay** is a free **41-module combat overlay** for
+**WARDOGS**, powered by **Dear ImGui + DirectX 11 + C++23**.
+
+Modules include **God Mode**, **One-Hit Kill**, **Infinite Ammo**,
+**Unlimited Cash**, **Free Loadout**, **Ghost Vehicle**, **Instant Build**,
+**Indestructible Structures**, **Freeze All Enemies**, **No Clip**,
+**Fly Mode**, and **Teleport**.
+
+**Keywords:** wardogs overlay, wardogs god mode, wardogs one hit kill,
+wardogs infinite ammo, wardogs ghost vehicle, wardogs tactical overlay,
+wardogs undetected overlay.
+
 </div>
